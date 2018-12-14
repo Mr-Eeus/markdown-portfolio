@@ -1,5 +1,5 @@
-* Raindrops on Roses
-* Whiskers on Kittens
-* Bright Copper Kettles
-* Warm Woolen Mittens
-* Brown Paper Packages, Tied up w/ Strings
+* _Raindrops on Roses_
+* __Whiskers on Kittens__
+* _Bright Copper Kettles_
+* __Warm Woolen Mittens__
+* _Brown Paper Packages, Tied up w/ Strings_
