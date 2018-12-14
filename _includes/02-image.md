@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Placeholder Image](http://placeimg.com/640/480/any)
